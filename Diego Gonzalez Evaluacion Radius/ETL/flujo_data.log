@@ -1,0 +1,11 @@
+ERROR:root:Error: [WinError 3] El sistema no puede encontrar la ruta especificada: '/../CleanFiles/'
+ERROR:root:Error: [WinError 3] El sistema no puede encontrar la ruta especificada: '../CleanFiles'
+ERROR:root:Error: [WinError 3] El sistema no puede encontrar la ruta especificada: '../CleanFiles'
+ERROR:root:Error: name 'pd' is not defined
+ERROR:root:Error en carga de tabla 20231125_SalesOrderDetail: module 'datetime' has no attribute 'now'
+ERROR:root:Error en carga de tabla 20231125_SalesOrderHeader: module 'datetime' has no attribute 'now'
+ERROR:root:Error en carga de tabla 20231125_SalesTerritory: module 'datetime' has no attribute 'now'
+ERROR:root:Error en carga de tabla 20231125_SalesTerritoryHistory: module 'datetime' has no attribute 'now'
+INFO:root:Carga exitosa.
+
+INFO:root:Carga exitosa.
